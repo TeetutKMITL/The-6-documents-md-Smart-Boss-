@@ -399,6 +399,7 @@ suspicious changes.
 ## 7. Functional Requirements
 
 | ID | Requirement |
+|---|---|
 | FR1 | Users must log in with username/password before accessing protected pages. |
 | FR2 | System must support Admin and Operator access levels. |
 | FR3 | Admin can manage users and system data. |
