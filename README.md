@@ -434,6 +434,7 @@ suspicious changes.
 ## 8. Non-Functional Requirements
 
 | ID | Requirement |
+|---|---|
 | NFR1 | **Usability:** UI must be simple enough for staff with low technology familiarity. |
 | NFR2 | **Performance:** Dashboard and SKU lists should load in under 2 seconds with up to approximately 1,000 SKUs on local hardware. |
 | NFR3 | **Reliability:** SQLite must safely handle concurrent writes using database transactions. |
@@ -688,7 +689,7 @@ Testing----------Vitest + Testing Library
 
 
 3. Folder Structure
-
+/
 ├── agents.md
 ├── architecture.md
 ├── schema.md
