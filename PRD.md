@@ -36,7 +36,7 @@ automatically deduct sold quantities from stock, and track sales performance.
 
 The system also provides a dashboard for the CEO/Manager to view an overall
 summary of company performance, inventory status, and individual salesperson
-performance.
+performance and the Forecast Features.
 
 - **Stack:** Next.js 14 (App Router) + TypeScript + Tailwind CSS
 - **Data storage:** SQLite via `better-sqlite3`, single local database file
