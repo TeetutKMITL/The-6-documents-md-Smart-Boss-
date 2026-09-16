@@ -399,6 +399,7 @@ suspicious changes.
 ## 7. Functional Requirements
 
 | ID | Requirement |
+|---|---|
 | FR1 | Users must log in with username/password before accessing protected pages. |
 | FR2 | System must support Admin and Operator access levels. |
 | FR3 | Admin can manage users and system data. |
@@ -433,6 +434,7 @@ suspicious changes.
 ## 8. Non-Functional Requirements
 
 | ID | Requirement |
+|---|---|
 | NFR1 | **Usability:** UI must be simple enough for staff with low technology familiarity. |
 | NFR2 | **Performance:** Dashboard and SKU lists should load in under 2 seconds with up to approximately 1,000 SKUs on local hardware. |
 | NFR3 | **Reliability:** SQLite must safely handle concurrent writes using database transactions. |
